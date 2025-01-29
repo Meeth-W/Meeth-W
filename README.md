@@ -76,7 +76,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meeth-W&show_icons=true&theme=dracula)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meeth-W&repo=Azelia)](https://github.com/Meeth-W/Azelia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meeth-W&repo=Ghost&theme=dracula)](https://github.com/Meeth-W/Azelia)
 
 ---
 
