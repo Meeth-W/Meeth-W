@@ -71,12 +71,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meeth-W&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meeth-W&size_weight=0.5&count_weight=0.5&theme=dracula)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meeth-W&show_icons=true&theme=dracula)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meeth-W&repo=github-readme-stats)](https://github.com/Meeth-W/Azelia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meeth-W&repo=Azelia)](https://github.com/Meeth-W/Azelia)
 
 ---
 
