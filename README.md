@@ -40,10 +40,10 @@
 ---
 
 ### 🚀 Current Projects
-- **[GhostAddons](https://github.com/Meeth-W/GhostAddons)**  
+- **[Ghost](https://github.com/Meeth-W/Ghost)**  
   Developing custom Minecraft mods to enhance gameplay, focusing on automation, visual effects, and engaging mechanics.
 
-- **[AI Author Platform](https://github.com/Meeth-W/AI-Author)**  
+- **[AI Author Platform](https://github.com/Meeth-W/Author)**  
   Building an AI-powered book-writing assistant with React (frontend) and Python (backend), integrating web scraping and machine learning models.
 
 - **[Data Structures](https://github.com/Meeth-W/PythonDataStructures)**  
@@ -71,17 +71,12 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Meeth-W&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meeth-W&size_weight=0.5&count_weight=0.5)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meeth-W&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meeth-W&show_icons=true&theme=dracula)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meeth-W&theme=dark" alt="Meeth-W" />
-</div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Meeth-W&repo=github-readme-stats)](https://github.com/Meeth-W/Azelia)
 
 ---
 
