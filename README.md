@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me  
 - 🌟 **Who I Am**:  
-  I’m an IT engineering student at Thakur College of Science and Commerce, aspiring to merge my technical expertise with creative problem-solving to build innovative software solutions.  
+  I’m an IT engineering student at Thakur College of Engineering & Technology, aspiring to merge my technical expertise with creative problem-solving to build innovative software solutions.  
 
 - 💡 **What Drives Me**:  
   I’m passionate about learning new technologies, enhancing my development skills, and tackling complex challenges in software development, AI, and game modding.  
